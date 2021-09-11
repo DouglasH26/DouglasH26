@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/DouglasH26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasH26&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasH26&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DouglasH26&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasH26&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
   <img align="center" alt="Doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Doug-yes" src="https://images.squarespace-cdn.com/content/v1/5c6c6c2cd74562a8dedfebeb/1552953614422-X4TOCSP0S52NXA6SUKG6/Peace-Sign.gif">
+  <img align="right" alt="Doug-yes" height="200em" width="400em" src="https://images.squarespace-cdn.com/content/v1/5c6c6c2cd74562a8dedfebeb/1552953614422-X4TOCSP0S52NXA6SUKG6/Peace-Sign.gif">
   </div>
 
   ##
